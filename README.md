@@ -7,8 +7,9 @@
 I'm currently studying BS Computer Science at a certain university in the Philippines. Beyond coding and classes, here are some fun facts about me:
 
 - 🚀 Im also a freelance NFT and digital artist.
-- 🎸 I play pianao and ukulele and love jamming to any songs in my free time.
+- 🎸 I play piano and ukulele and love jamming to any songs in my free time.
 - 📸 I'm an amateur photographer, and I enjoy capturing the beauty in everyday moments.
+- I like anime, music, and manga.
 
 ## Academic Interests
 
@@ -27,7 +28,7 @@ Feel free to explore more in my repositories!
 
 - [LinkedIn]
 - [Twitter]
-- [Personal Blog (
+- [Personal Blog]
 
 ## Contact
 
